@@ -1,1 +1,3 @@
 markdown:   kramdown
+url : "http://anagac.github.io/"
+baseurl: "anagac.github.io/"
