@@ -3,7 +3,7 @@ layout: cv
 title: Andres Aguilar's CV
 ---
 
-![Harold](./media/andres.png){:.avatar}
+![Andres](./media/andres.jpg){:.avatar}
 
 # Andres Aguilar
 Software Engineer
@@ -28,14 +28,14 @@ Software Engineer
 
 Create an Instant Budget by answering just 5 questions. App Developed using AngularJS/Ionic. 
 
-- iOS: https://itunes.apple.com/us/app/instant-budget-by-zebit/id1077467430
-- Android: https://play.google.com/store/apps/details?id=com.zebit.instantbudget
+iOS: https://itunes.apple.com/us/app/instant-budget-by-zebit/id1077467430 
+Android: https://play.google.com/store/apps/details?id=com.zebit.instantbudget
 
 ### Baricredit
 
-Get small loans and get coins when you pay it off. Bet coins in the slot machine to get smaller interest rate. App created in Swift.
+Get small loans and get coins when you pay it off. Bet coins in the slot machine to get smaller interest rate. App created in Swift. 
 
-- iOS: https://itunes.apple.com/mx/app/baricredit/id1062352009
+iOS: https://itunes.apple.com/mx/app/baricredit/id1062352009
 
 ### Mundo Terra
 
@@ -50,7 +50,7 @@ __Jaguar Labs__
 Developed several apps using Cordova/JQuery Mobile or Objective-C. Projects were guided using the Scrum methodology. 
 
 
-`2015-Currently`
+`2015-Now`
 __Softstack Factory__ 
 Helped creating the student's curricula, mentored students, review code, deployed projects to AWS, develop app prototypes.
 
