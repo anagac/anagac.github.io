@@ -3,8 +3,6 @@ layout: cv
 title: Andres Aguilar's CV
 ---
 
-![Andres](./media/andres.jpg){:.avatar}
-
 # Andres Aguilar
 Software Engineer
 
